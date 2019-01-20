@@ -1,0 +1,50 @@
+body{
+    background:rgb(56, 184, 243);
+    font-family:arial;
+}
+h1{
+    color:purple;
+    text-align: center;
+    letter-spacing:10px;
+    text-transform: uppercase;
+
+}
+.first {
+    color:whitesmoke;
+    background:pink;
+    padding: 0px;
+    display: block;
+    text-align: center;
+
+}
+p{
+    color: whitesmoke;
+}
+header h2{
+    display: block;
+    background: mediumvioletred;
+    padding:0;
+    margin:0;
+    width:100px;
+}
+header nav{
+    display:inline;
+}
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    width: 100%;
+}
+li{
+    display:inline;
+}
+ul li a{
+    display: inline-block;
+    color: mediumvioletred;
+    background:white;
+    padding: 5px;
+}
+footer{
+    text-align: center;
+}
