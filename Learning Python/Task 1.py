@@ -14,3 +14,4 @@ def word_distribution(text_string):
                 z=z+1
                 ketqua[y[index2]]=z    
     return (ketqua)
+#defining the function that counts how many times a word appearing on a string (words are seperated by space and diacritics are not counted)
